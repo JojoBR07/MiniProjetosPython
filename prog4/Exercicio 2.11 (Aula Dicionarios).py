@@ -1,0 +1,6 @@
+L = list(range(3,336,3))
+print(L)
+print("....................................")
+print("Soma Total: ", sum(L))
+print("....................................")
+print("Média: ", (sum(L)/len(L)))
